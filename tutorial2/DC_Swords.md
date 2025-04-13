@@ -7,4 +7,4 @@
 
 ## Identifying SSH process
 **command: htop**
-![SSH Process](Screenshot 2025-04-13 150713.png) 
+![SSH Process](ssh_process.png) 
