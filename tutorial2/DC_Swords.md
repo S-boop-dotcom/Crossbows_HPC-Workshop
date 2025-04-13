@@ -3,7 +3,7 @@
 
 **command: systemctl status sshd**
 **Screenshot:**
-![SSH status](Screenshot 2025-04-13 143333.png)
+![SSH status](ssh_service.png)
 
 ## Identifying SSH process
 **command: htop**
